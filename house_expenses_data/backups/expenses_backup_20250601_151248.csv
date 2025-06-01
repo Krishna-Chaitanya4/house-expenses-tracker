@@ -1,0 +1,12 @@
+Date,Category,Subcategory,Description,Amount,Payment_Method,Receipt_Reference
+2024-10-05,House Plot,Land Cost,cost for the land,2500000.0,Not Specified,
+2024-10-05,House Plot,Land Registration,registration for the land,60000.0,Not Specified,
+2025-03-05,Planning,House Plan,plan design by zara,3500.0,Not Specified,
+2025-03-20,Building Plan Approval,EC market value,sub-register office,700.0,Not Specified,
+2025-03-22,Building Material,Material (Wood),bought teak,701000.0,Not Specified,
+2025-04-01,Transportation,Transportation,transportation of teak to home,4000.0,Not Specified,
+2025-04-01,Transportation,Coolie (Wood),Coolie charges for teak,4000.0,Not Specified,
+2025-04-01,Transportation,Permits,check post cost,600.0,Not Specified,
+2025-04-01,Transportation,Permits,Permit for transportation of teak,2600.0,Not Specified,
+2025-04-01,Transportation,Personal Transport,General transportation to pormamilla,500.0,Not Specified,
+2025-04-01,Planning,Other Expenses,Given to Poojari,500.0,Not Specified,

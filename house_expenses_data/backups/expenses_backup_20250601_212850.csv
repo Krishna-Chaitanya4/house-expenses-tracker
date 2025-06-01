@@ -6,24 +6,17 @@ Date,Category,Subcategory,Description,Amount,Payment_Method,Receipt_Reference,No
 2025-03-22,Building Material,Material (Wood),Teak wood purchase,701000.0,Not specified,,bought teak
 2025-04-01,Planning,Other Expenses,Poojari fees,500.0,Not specified,,Given to Poojari
 2025-04-01,Transportation,Personal Transport,Travel expenses,500.0,Not specified,,General transportation to pormamilla
-2025-04-01,Transportation,Transportation,Teak transportation,4000.0,Not specified,,transportation of teak to home
-2025-04-01,Transportation,Coolie (Wood),Labor charges for teak,4000.0,Not specified,,Coolie charges for teak
-2025-04-01,Transportation,Permits,Check post fees,600.0,Not specified,,check post cost
 2025-04-01,Transportation,Permits,Transportation permit,2600.0,Not specified,,Permit for transportation of teak
+2025-04-01,Transportation,Permits,Check post fees,600.0,Not specified,,check post cost
+2025-04-01,Transportation,Coolie (Wood),Labor charges for teak,4000.0,Not specified,,Coolie charges for teak
+2025-04-01,Transportation,Transportation,Teak transportation,4000.0,Not specified,,transportation of teak to home
 2025-04-09,Doors & Windows,Carpenter,Carpenter advance,4000.0,Not specified,,Advance for Aachari
 2025-04-13,Construction,Coolie,Construction labor advance,10000.0,Not specified,,"Advance for the Coolie, construction"
 2025-04-21,Building Plan Approval,Property Tax,Property tax payment,8197.0,Not specified,,property tax
 2025-04-23,Initial Setup,Basic Things,Utility connections,1000.0,Not specified,,Electrical & water connections
-2025-04-26,Pooja,Bhumi Pooja,Pooja items,1530.0,Not specified,,vastralu
 2025-04-26,Building Material,RR Stones,Stone purchase,4000.0,Not specified,,1 tractor
 2025-04-26,Initial Setup,Construction Equipment,Construction tools,2700.0,Not specified,,"bought 10 tubs, 2 paralu"
-2025-04-28,Construction,Coolie,First payment after marking,100000.0,Cash,,"first payment to masthan, after marking"
-2025-04-28,Pooja,Bhumi Pooja,Pooja materials,3000.0,Not specified,,Bought things for Bhumi Pooja
-2025-04-29,Construction,Ramapuram Kankara,Kankara before Bhumi Pooja,23200.0,Not specified,,6 units kankara before bhumi pooja
-2025-05-01,Construction,kankara,Kankara stones,4800.0,Not specified,,1 tractor 40mm kankara
-2025-05-06,Construction,JCB,JCB work,16000.0,Not specified,,rent for JCB
+2025-04-26,Pooja,Bhumi Pooja,Pooja items,1530.0,Not specified,,vastralu
 2025-05-21,Construction,Bricks,Brick purchase,6000.0,Not specified,,fly ash bricks
-2025-05-29,Construction,Iron,Iron payment,75000.0,PhonePe,,Iron ; phonepe
-2025-05-29,Construction,Cement,Cement payment,20000.0,PhonePe,,cement; Phonepe
-2025-06-01,Transportation,Permits,Building permit application fee,2500.0,Credit Card,PERM001,
 2025-06-01,Construction,Labour charges,Initial foundation concrete work,15000.0,Bank Transfer,FOUND001,
+2025-06-01,Transportation,Permits,Building permit application fee,2500.0,Credit Card,PERM001,

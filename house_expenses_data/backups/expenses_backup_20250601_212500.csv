@@ -1,0 +1,15 @@
+Date,Category,Subcategory,Description,Amount,Payment_Method,Receipt_Reference,Note
+2024-10-05,House Plot,Land Cost,Land purchase,2500000.0,Not specified,,cost for the land
+2024-10-05,House Plot,Land Registration,Land registration fees,60000.0,Not specified,,registration for the land
+2025-03-05,Planning,House Plan,House plan design,3500.0,Cash,,plan design by zara
+2025-03-20,Building Plan Approval,EC market value,EC approval,700.0,Not specified,,sub-register office
+2025-03-22,Building Material,Material (Wood),Teak wood purchase,701000.0,Not specified,,bought teak
+2025-04-01,Planning,Other Expenses,Poojari fees,500.0,Not specified,,Given to Poojari
+2025-04-01,Transportation,Transportation,Teak transportation,4000.0,Not specified,,transportation of teak to home
+2025-04-01,Transportation,Coolie (Wood),Labor charges for teak,4000.0,Not specified,,Coolie charges for teak
+2025-04-01,Transportation,Permits,Check post fees,600.0,Not specified,,check post cost
+2025-04-01,Transportation,Permits,Transportation permit,2600.0,Not specified,,Permit for transportation of teak
+2025-04-01,Transportation,Personal Transport,Travel expenses,500.0,Not specified,,General transportation to pormamilla
+2025-04-13,Construction,Coolie,Construction labor advance,10000.0,Not specified,,"Advance for the Coolie, construction"
+2025-06-01,Transportation,Permits,Building permit application fee,2500.0,Credit Card,PERM001,
+2025-06-01,Construction,Labour charges,Initial foundation concrete work,15000.0,Bank Transfer,FOUND001,

@@ -7,6 +7,7 @@ A Python-based expense tracking system for house construction projects, using Ju
 - Track and categorize construction expenses
 - Visualize spending patterns
 - Automatic data persistence in CSV and Excel formats
+- Generate comprehensive PDF expense reports
 - Automatic backups
 - Interactive data analysis and reporting
 
@@ -47,9 +48,10 @@ A Python-based expense tracking system for house construction projects, using Ju
 
 ## Data Storage
 
-- Data is automatically saved in both CSV and Excel formats in the `house_expenses_data` folder
+- Data is automatically saved in CSV, Excel, and PDF formats in the `house_expenses_data` folder
 - Automatic backups are created with timestamps
 - Excel file includes multiple sheets for different views of the data
+- PDF reports contain comprehensive analysis, visualizations, and expense breakdowns
 
 ## Categories
 
